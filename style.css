@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  
+}
+
+        .box {
+            text-align: center;
+            background: white;
+            padding: 20px;
+            max-width: 400px;
+            border-radius: 8px;
+            background-color: rgb(173, 173, 173);
+        }
+
+        input, button {
+            width: 95%;
+            padding: 8px;
+            margin-top: 10px;
+        }
+
+        button {
+            background: #4a7cff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover{
+            background-color: white;
+            color: #4a7cff;
+        }
